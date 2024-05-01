@@ -7,3 +7,16 @@ A simple project for those new to the Python TKinter library. This application i
 ## UI
 ![Screenshot of PONG game](./assets/images/miles-to-km-ui.png)
 
+## To download
+
+```
+git clone https://github.com/menonrudhra/miles-to-km-tkinter.git
+cd miles-to-km-tkinter
+```
+
+## To run the App 
+
+```
+python3 main.py
+```
+
